@@ -30,7 +30,8 @@ if ("IntersectionObserver" in window) {
       });
     },
     {
-      threshold: 0.18,
+      threshold: 0.01,
+      rootMargin: "0px 0px -8% 0px",
     }
   );
 
