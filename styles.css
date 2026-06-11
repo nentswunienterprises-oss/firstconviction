@@ -647,7 +647,7 @@ img {
   font-size: 0.8rem;
   letter-spacing: 0.01em;
   text-transform: none;
-  white-space: nowrap;
+  overflow-wrap: anywhere;
 }
 
 .reveal {
