@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 180" role="img" aria-labelledby="title">
+  <title>First Conviction brand mark</title>
+  <path d="M30 20H60" stroke="#111111" stroke-width="6" stroke-linecap="square"/>
+  <path d="M60 20H90" stroke="#111111" stroke-width="6" stroke-linecap="square"/>
+  <path d="M30 20V150" stroke="#111111" stroke-width="6" stroke-linecap="square"/>
+  <path d="M90 20V150" stroke="#111111" stroke-width="6" stroke-linecap="square"/>
+  <path d="M60 58V150" stroke="#F2B705" stroke-width="6" stroke-linecap="square"/>
+  <circle cx="60" cy="40" r="8" fill="#F2B705"/>
+</svg>
